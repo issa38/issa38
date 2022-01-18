@@ -35,6 +35,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Good Dev Makes Post Right?](https://dev.to/issa38/a-good-dev-makes-post-right-5g8d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
