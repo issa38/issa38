@@ -40,17 +40,20 @@
 ---
 
 ### :zap: GitHub Stats
+<!-- 
+  <img align="center" alt="issa38's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=issa38&show_icons=true&hide_border=true&theme=tokyonight" />
 
-  <!-- <img align="center" alt="issa38's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=issa38&show_icons=true&hide_border=true&theme=tokyonight" />
-
-  <img align="center" alt="issa38's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> -->
+  <img align="center" alt="issa38's Language" src="https://github-readme-stats.vercel.app/api?username=issa38&show_icons=true&hide_border=true&theme=tokyonight" /> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=issa38&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issa38&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issa38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/isaiahmoragne
 [linkedin]: https://linkedin.com/in/isaiahmoragne
