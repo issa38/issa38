@@ -34,6 +34,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Update on eBay Auto Poster](https://dev.to/issa38/update-on-ebay-auto-poster-4mhc)
 - [A Good Dev Makes Post Right?](https://dev.to/issa38/a-good-dev-makes-post-right-5g8d)
 <!-- BLOG-POST-LIST:END -->
 
