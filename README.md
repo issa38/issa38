@@ -44,9 +44,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=issa38&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issa38&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
-</a>
 
 [twitter]: https://twitter.com/isaiahmoragne
 [linkedin]: https://linkedin.com/in/isaiahmoragne
