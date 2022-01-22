@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/isaiahmoragne?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=isaiahmoragne)
 
-## I'm a Skills Addict and programming is my strongest fix!!
+## I like learning things and programming is my favorite challenge!!
 
 - 🔭 I am nowhere near a great programmer, but I try to do good things!
 - 🌱 I’m learning Javascript right now (Frontend and Node) :3
