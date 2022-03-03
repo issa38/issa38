@@ -5,7 +5,7 @@
 ## I like learning things and programming is my favorite challenge!!
 
 - 🔭 I am nowhere near a great programmer, but I try to do good things!
-- 🌱 I’m learning C and Python right now with JS in the background :3
+- 🌱 I’m focusing on Python and JS for Web Developement right now :3
 - 👯 I’m looking to better understand how programming works in general right now.
 - 🥅 2022 Goals: Create and publish some useful program for myself and others
 
